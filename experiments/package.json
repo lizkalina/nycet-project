@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "dns": "^0.2.2",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.19",
     "node-gyp": "^3.6.2",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
